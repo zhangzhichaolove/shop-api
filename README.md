@@ -18,3 +18,9 @@ https://raw.githubusercontent.com/zhangzhichaolove/shop-api/main/goods/1.json
 ```
 https://raw.githubusercontent.com/zhangzhichaolove/shop-api/main/assets/banner1.jpeg
 ```
+
+## 全部订单:
+
+```
+https://raw.githubusercontent.com/zhangzhichaolove/shop-api/main/order/all.json
+```
