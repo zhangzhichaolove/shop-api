@@ -9,5 +9,8 @@
         "版本": ["8GB+256GB", "12GB+256GB", "12GB+512GB"],
         "颜色": ["陶瓷黑", "陶瓷白"],
         "套餐": ["标配", "套装版（赠充电器）"]
-    }]
+    }],
+    "evaluate": "好评率98.4%",
+    "evaluateLabel": ["拍照一流", "颜值够高", "速度较快", "价格实惠", "续航出色", "系统稳定"],
+    "detailsImg": ["details1_id1.jpeg", "details2_id1.jpeg", "details3_id1.jpeg", "details4_id1.jpeg", "details5_id1.jpeg", "details6_id1.jpeg", "details7_id1.jpeg", "details8_id1.jpeg", "details9_id1.jpeg"]
 }
