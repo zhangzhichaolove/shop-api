@@ -1,36 +1,47 @@
 {
     "banner": [{
+        "id": 13,
         "title": "黑鲨4S",
         "img": "banner1.jpeg"
     }, {
+        "id": 14,
         "title": "智能门锁",
         "img": "banner2.jpeg"
     }, {
+        "id": 15,
         "title": "摄影大赛",
         "img": "banner3.jpeg"
     }],
     "class": [{
+        "id": 1,
         "text": "小米众筹",
         "icon": "class1.png"
     }, {
+        "id": 2,
         "text": "手机",
         "icon": "class2.png"
     }, {
+        "id": 3,
         "text": "小米上新",
         "icon": "class3.png"
     }, {
+        "id": 4,
         "text": "智能",
         "icon": "class4.png"
     }, {
+        "id": 5,
         "text": "笔记本",
         "icon": "class5.png"
     }, {
+        "id": 6,
         "text": "电视",
         "icon": "class6.png"
     }, {
+        "id": 7,
         "text": "洗衣机",
         "icon": "class7.png"
     }, {
+        "id": 8,
         "text": "米粉卡",
         "icon": "class8.png"
     }],
@@ -49,56 +60,56 @@
         "img": "hot.png"
     },
     "list": [{
-        "id": 4,
+        "id": 5,
         "img": "list1.jpeg",
         "originalPrice": 4999,
         "discountPrice": 4499,
         "title": "小米11 Pro",
         "describe": "1/1.12''GN2｜骁龙888"
     }, {
-        "id": 5,
+        "id": 6,
         "img": "list2.jpeg",
         "originalPrice": 9999,
         "discountPrice": 0,
         "title": "MIX FOLD 小米折叠屏手机",
         "describe": "折叠大屏｜自研芯片"
     }, {
-        "id": 6,
+        "id": 7,
         "img": "list3.jpeg",
         "originalPrice": 1299,
         "discountPrice": 1199,
         "title": "Note 9 5G",
         "describe": "天玑 800U处理器"
     }, {
-        "id": 7,
+        "id": 8,
         "img": "list4.jpeg",
         "originalPrice": 3299,
         "discountPrice": 2999,
         "title": "小米10S",
         "describe": "骁龙870 | 对称式双扬立体声"
     }, {
-        "id": 8,
+        "id": 9,
         "img": "list5.jpeg",
         "originalPrice": 1599,
         "discountPrice": 1399,
         "title": "Note 9 Pro 5G",
         "describe": "一亿像素夜景相机"
     }, {
-        "id": 9,
+        "id": 10,
         "img": "list6.jpeg",
         "originalPrice": 3799,
         "discountPrice": 0,
         "title": "小米11",
         "describe": "骁龙888 | 2K四曲面屏"
     }, {
-        "id": 9,
+        "id": 11,
         "img": "list7.jpeg",
         "originalPrice": 2499,
         "discountPrice": 0,
         "title": "黑鲨4",
         "describe": "磁动力升降肩键"
     }, {
-        "id": 9,
+        "id": 12,
         "img": "list8.jpeg",
         "originalPrice": 2799,
         "discountPrice": 2499,
